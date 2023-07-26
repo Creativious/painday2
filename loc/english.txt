@@ -1,0 +1,9 @@
+{
+    "painday_menu_main_name": "Painday",
+    "painday_menu_main_desc": "Customize Painday Settings",
+    "painday_module_config_name": "Painday Modules Config",
+    "painday_weapon_tweaks_toggle_name" : "Weapon Tweaks",
+    "painday_weapon_tweaks_toggle_name_desc" : "Enables the Weapon Tweaks module",
+    "painday_module_notebook_modules_name": "Painday Modules",
+    "painday_module_selector_combobox_name": "Module Selector"
+}
